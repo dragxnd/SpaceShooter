@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3409bfabf59c758469db1063836afb23, type: 3}
+  m_Name: Level 8
+  m_EditorClassIdentifier: 
+  levelObjects:
+  - prefab: {fileID: 1008292671849550, guid: aa9ea52cbede2e043adc7f9d6dba914c, type: 2}
+    position: {x: 3.4099998, y: 1.65, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - prefab: {fileID: 1107202665369852, guid: cae5734212763ec498fb4387ba105bfe, type: 2}
+    position: {x: 2.12, y: 3.18, z: -0.03121}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - prefab: {fileID: 1296754749939862, guid: e882d5f7a3667154b8207ed61d33ccb9, type: 2}
+    position: {x: 0.71999985, y: 0.63, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - prefab: {fileID: 1296754749939862, guid: e882d5f7a3667154b8207ed61d33ccb9, type: 2}
+    position: {x: -1.1100001, y: 0.63, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - prefab: {fileID: 1107202665369852, guid: cae5734212763ec498fb4387ba105bfe, type: 2}
+    position: {x: -2.89, y: 3.18, z: -0.03121}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - prefab: {fileID: 1008292671849550, guid: aa9ea52cbede2e043adc7f9d6dba914c, type: 2}
+    position: {x: -4.91, y: 1.65, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}

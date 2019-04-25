@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcc7f2197f69bab4da477a7e60131095, type: 3}
+  m_Name: StatMultiplierData
+  m_EditorClassIdentifier: 
+  statMultipliers:
+  - name: Player 1
+    HealthMultiplier: 20
+    ShootingSpeedMultiplier: 0.4
+    MovingSpeedMultiplier: 15
+    MobilityMultiplier: 2
+    WeaponDamageMultiplier: 1
+  - name: Player 2
+    HealthMultiplier: 30
+    ShootingSpeedMultiplier: 0.35
+    MovingSpeedMultiplier: 16
+    MobilityMultiplier: 3
+    WeaponDamageMultiplier: 1
+  - name: Player 3
+    HealthMultiplier: 35
+    ShootingSpeedMultiplier: 0.3
+    MovingSpeedMultiplier: 17
+    MobilityMultiplier: 6
+    WeaponDamageMultiplier: 3
+  - name: Player 4
+    HealthMultiplier: 40
+    ShootingSpeedMultiplier: 0.25
+    MovingSpeedMultiplier: 18
+    MobilityMultiplier: 10
+    WeaponDamageMultiplier: 4
+  - name: Player 5
+    HealthMultiplier: 50
+    ShootingSpeedMultiplier: 0.2
+    MovingSpeedMultiplier: 20
+    MobilityMultiplier: 15
+    WeaponDamageMultiplier: 5
+  - name: Enemy 1.1
+    HealthMultiplier: 10
+    ShootingSpeedMultiplier: 1.5
+    MovingSpeedMultiplier: 1
+    MobilityMultiplier: 3
+    WeaponDamageMultiplier: 1
+  - name: Enemy 1.2
+    HealthMultiplier: 20
+    ShootingSpeedMultiplier: 0.9
+    MovingSpeedMultiplier: 1
+    MobilityMultiplier: 5
+    WeaponDamageMultiplier: 2
+  - name: Enemy 1.3
+    HealthMultiplier: 30
+    ShootingSpeedMultiplier: 0.8
+    MovingSpeedMultiplier: 1
+    MobilityMultiplier: 7
+    WeaponDamageMultiplier: 3
+  - name: Enemy 1.4
+    HealthMultiplier: 40
+    ShootingSpeedMultiplier: 0.7
+    MovingSpeedMultiplier: 1
+    MobilityMultiplier: 10
+    WeaponDamageMultiplier: 5
+  - name: Boss
+    HealthMultiplier: 70
+    ShootingSpeedMultiplier: 0.52
+    MovingSpeedMultiplier: 1
+    MobilityMultiplier: 15
+    WeaponDamageMultiplier: 10

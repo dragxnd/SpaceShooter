@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3409bfabf59c758469db1063836afb23, type: 3}
+  m_Name: Level 9
+  m_EditorClassIdentifier: 
+  levelObjects:
+  - prefab: {fileID: 1927805129368474, guid: bf1b4189aa719724cbed13a9fd4ae968, type: 2}
+    position: {x: 2.7, y: 1.6899998, z: -0.0073089}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - prefab: {fileID: 1909531219830148, guid: 7cdc5e17d75a0394398730e06ac8dc49, type: 2}
+    position: {x: -0.35, y: 4.85, z: 0.0016063}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+  - prefab: {fileID: 1138491574648630, guid: 96ebec6485f723d4499cd8a944baf1f1, type: 2}
+    position: {x: -4.23, y: 2.3799999, z: 0.00000017581}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
